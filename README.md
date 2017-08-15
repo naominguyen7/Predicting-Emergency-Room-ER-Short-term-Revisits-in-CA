@@ -5,4 +5,4 @@ A one-month project predicting the 72-hour revisits in Emergency Room.
 
 Out of elastic net models, classification tree, logistic regression, linear probability model, and an ensemble model, the logistic regression and the ensemble model have the best performance (AUC: 71%).
 
-*Note:* The confidentiality contract prohibited me to share the dataset and my codes are in the virtual machine which I no longer have access but please contact me. I can recreate some examples and sample codes.
+**Note:** The confidentiality contract prohibited me to share the dataset and my codes are in the virtual machine which I no longer have access but please contact me. I can recreate some examples and sample codes.
